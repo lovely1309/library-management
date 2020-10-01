@@ -23,3 +23,5 @@ A librarian must be able to manage the catalog of the books.
 * The platform and technology choices (Netbeans, MySQL, phpMyadmin etc)
 * Division of work with feature owner specified
 * Milestones with expected dates
+
+PROJECT ON DEVELOPMENT
